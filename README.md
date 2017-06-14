@@ -1,15 +1,13 @@
 # PrimeNumbersExtracter
-A java application to get prime numbers out between two input numbers
+//A java application to get prime numbers out between two input numbers
 
 
 package getprimenumbers;
 
-/**
- * This is a program designed to get all prime numbers between two input
- * numbers.The purpose Of this program is to practice Basic java programming.
- *
- * @Gandealf
- */
+// This is a program designed to get all prime numbers between two input
+//numbers.The purpose Of this program is to practice Basic java programming.
+// author@Gandealf
+
 import java.util.Scanner;
 
 public class GetPrimeNumbers {
